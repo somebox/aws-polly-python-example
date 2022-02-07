@@ -27,3 +27,9 @@ To set your own AWS credentials, use `aws configure` via the command-line, or [r
 ## Results
 
 A fully-rendered conversation, post-processed as if it were in the gallery space: [mp3, 11:06](mp3/art1-questions-answers.mp3)
+
+- Artist (questions): Edward Wright
+- AI GPT-3: AWS Polly (English/Britan, Brian/Male, neural model)
+- Shure SM7, Logic Audio X
+
+
